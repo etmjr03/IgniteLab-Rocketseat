@@ -21,3 +21,4 @@ Instalações:
 - npm install -D tailwindcss postcss autoprefixer
 - npx sb init --builder @storybook/builder-vite --use-npm
 - npm install --save clsx
+- npm install @radix-ui/react-popover@latest -E
